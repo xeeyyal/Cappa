@@ -1,0 +1,405 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\css\\plugins\\YouTubePopUp.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\YouTubePopUp.css"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\css\\plugins\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\css\\plugins\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\css\\plugins\\close.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\css\\plugins\\datepicker.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\css\\plugins\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\css\\plugins\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\css\\plugins\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\css\\plugins\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\css\\plugins\\select2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\css\\plugins\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\css\\plugins\\vegas.slider.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\vegas.slider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\clients\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\clients\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\clients\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\clients\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\clients\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\clients\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\logo.psd",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.psd"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\news\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\news\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\news\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\news\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\news\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\news\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\pricing\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pricing\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\pricing\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pricing\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\pricing\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pricing\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\pricing\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pricing\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\quot.png",
+      "PackagePath": "staticwebassets\\assets\\img\\quot.png"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\restaurant\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurant\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\restaurant\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurant\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\restaurant\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurant\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\rooms\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\rooms\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\rooms\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\rooms\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\rooms\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\rooms\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\rooms\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\rooms\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\rooms\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\rooms\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\rooms\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\rooms\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\rooms\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\rooms\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\rooms\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\rooms\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\rooms\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\rooms\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\rooms\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\rooms\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\rooms\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\rooms\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\rooms\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\rooms\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\slider\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\slider\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\spa\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\spa\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\spa\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\spa\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\spa\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\spa\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\spa\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\spa\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\team\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\team\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\YouTubePopUp.js",
+      "PackagePath": "staticwebassets\\assets\\js\\YouTubePopUp.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\jquery-3.6.3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.6.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\jquery-migrate-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-migrate-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\jquery.isotope.v3.0.2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.isotope.v3.0.2.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\pace.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pace.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\scrollIt.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollIt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\select2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\smooth-scroll.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\smooth-scroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\sticky-kit.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\sticky-kit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\js\\vegas.slider.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vegas.slider.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Cappa.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Cappa.props",
+      "PackagePath": "build\\Cappa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Cappa.props",
+      "PackagePath": "buildMultiTargeting\\Cappa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Cappa.props",
+      "PackagePath": "buildTransitive\\Cappa.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
