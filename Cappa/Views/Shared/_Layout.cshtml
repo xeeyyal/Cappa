@@ -41,13 +41,13 @@
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item dropdown">
-                        <span class="nav-link active"> Home <i class="ti-angle-down"></i></span>
+                        <span class="nav-link active"><a asp-action="index" asp-controller="home">Home</a><i class="ti-angle-down"></i></span>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-action="about" asp-controller="home">About</a></li>
                     <li class="nav-item dropdown">
                         <span class="nav-link"> Rooms & Suites <i class="ti-angle-down"></i></span>
                         <ul class="dropdown-menu last">
-                            <li class="dropdown-item"><a asp-action="index" asp-controller="room">Rooms</a></li>
+                            <li class="dropdown-item"><a asp-action="rooms" asp-controller="room">Rooms</a></li>
                             <li class="dropdown-item"><a asp-action="detail" asp-controller="room">Room Details</a></li>
                         </ul>
                     </li>
@@ -56,9 +56,9 @@
                     <li class="nav-item dropdown">
                         <span class="nav-link"> Pages <i class="ti-angle-down"></i></span>
                         <ul class="dropdown-menu last">
-                            <li class="dropdown-item"><a href="services.html">Services</a></li>
-                            <li class="dropdown-item"><a href="team.html">Team</a></li>
-                            <li class="dropdown-item"><a href="404.html">404</a></li>
+                            <li class="dropdown-item"><a asp-action="service" asp-controller="page">Services</a></li>
+                            <li class="dropdown-item"><a asp-action="employee" asp-controller="page">Team</a></li>
+                            <li class="dropdown-item"><a asp-action="errorpage" asp-controller="page">404</a></li>
                         </ul>
                     </li>
                  @*    <li class="nav-item dropdown">
