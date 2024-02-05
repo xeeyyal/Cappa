@@ -1,5 +1,49 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model CreateEmployeeVm
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Employee form</h4>
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="Photo" for="exampleInputName1">Name</label>
+                    <input accept="image/*" asp-for="Photo" class="form-control">
+                    <span class="text-danger" asp-validation-for="Photo"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Name">Name</label>
+                    <input asp-for="Name" type="text" class="form-control" placeholder="Name">
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="FbLink">Facebook</label>
+                    <input asp-for="FbLink" type="text" class="form-control" placeholder="Facebook">
+                    <span class="text-danger" asp-validation-for="FbLink"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="InstaLink">Instagram</label>
+                    <input asp-for="InstaLink" type="text" class="form-control" placeholder="Instagram">
+                    <span class="text-danger" asp-validation-for="InstaLink"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="TwLink">Twitter</label>
+                    <input asp-for="TwLink" type="text" class="form-control" placeholder="Twitter">
+                    <span class="text-danger" asp-validation-for="TwLink"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PinterestLink">Pinterest</label>
+                    <input asp-for="PinterestLink" type="text" class="form-control" placeholder="Pinterest">
+                    <span class="text-danger" asp-validation-for="PinterestLink"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PositionId">Position</label>
+                    <select asp-for="PositionId" asp-items="new SelectList(Model.Positions,nameof(Position.Id),nameof(Position.Name))" class="form-control">
+                        <option selected disabled>Choose Position</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+                <button asp-action="index" asp-controller="employee" class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

@@ -7,7 +7,7 @@ namespace Cappa.Areas.Admin.ViewModels
     {
         public string Name { get; set; }
         public int PositionId { get; set; }
-        public Position Position { get; set; }
+        public List<Position>? Positions { get; set; }
         public string? Image { get; set; }
         public IFormFile? Photo { get; set; }
         public string? FbLink { get; set; }
