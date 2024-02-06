@@ -137,5 +137,12 @@ namespace Cappa.Areas.Admin.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+        public async Task<IActionResult> Details(int id)
+        {
+            if (id <= 0) return BadRequest();
+            Employee? employee = await _context.Employees.Include(e=>e.Position).FirstOrDefaultAsync(d => d.Id == id);
+            if (employee == null) return NotFound();
+            return View(employee);
+        }
     }
 }

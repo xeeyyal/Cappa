@@ -2,7 +2,7 @@
 
 namespace Cappa.Areas.Admin.ViewModels
 {
-    public class UpdatePositionVm
+    public class CreatePositionVm
     {
         [Required]
         public string Name { get; set; }
