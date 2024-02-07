@@ -1,5 +1,59 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model List<Menu>
 @{
+    int count = 0;
 }
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Menu Table</h4>
+            <a class="btn btn-primary" asp-action="create" asp-controller="menu">Create Menu</a>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                No
+                            </th>
+                            <th>
+                                Title
+                            </th>
+                            <th>
+                                Description
+                            </th>
+                            <th>
+                                Price
+                            </th>
+                            <th>
+                                Settings
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Menu menu in Model)
+                        {
+                            count++;
+                            <tr>
+                                <td>
+                                    @count;
+                                </td>
+                                <td>
+                                    @menu.Title
+                                </td>
+                                <td>
+                                    @menu.Description
+                                </td>
+                                <td>
+                                    @menu.Price
+                                </td>
+                                <td>
+                                    <a class="btn btn-secondary" asp-action="update" asp-controller="menu" asp-route-id="@menu.Id">Update</a>
+                                    <a class="btn btn-danger" asp-action="delete" asp-controller="menu" asp-route-id="@menu.Id">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
