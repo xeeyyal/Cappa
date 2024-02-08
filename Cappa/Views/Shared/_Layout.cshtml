@@ -60,6 +60,22 @@
                             <li class="dropdown-item"><a asp-action="errorpage" asp-controller="page">404</a></li>
                         </ul>
                     </li>
+                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    <li class="nav-item dropdown">
+                        <span class="nav-link"> Account <i class="ti-angle-down"></i></span>
+                        <ul class="dropdown-menu last">
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <li class="dropdown-item"><a >@User.Identity.Name</a></li>
+                                <li class="dropdown-item"><a asp-action="logout" asp-controller="account">Logout</a></li>
+                            }
+                            else
+                            {
+                                <li class="dropdown-item"><a asp-action="login" asp-controller="account">Login</a></li>
+                                <li class="dropdown-item"><a asp-action="register" asp-controller="account">Register</a></li>
+                            }
+                        </ul>
+                    </li>
                  @*    <li class="nav-item dropdown">
                         <span class="nav-link"> News <i class="ti-angle-down"></i></span>
                         <ul class="dropdown-menu last">
@@ -68,7 +84,7 @@
                             <li class="dropdown-item"><a href="post.html">Single Post</a></li>
                         </ul>
                     </li> *@
-                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    
                 </ul>
             </div>
         </div>

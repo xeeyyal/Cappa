@@ -1,12 +1,22 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Cappa.DAL;
+using Cappa.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace Cappa.Controllers
 {
     public class RoomController : Controller
     {
-        public IActionResult Rooms()
+        private readonly AppDbContext _context;
+
+        public RoomController(AppDbContext context)
         {
-            return View();
+            _context = context;
+        }
+        public async Task<IActionResult> Rooms()
+        {
+            List<Room> rooms = await _context.Rooms.ToListAsync();
+            return View(rooms);
         }
         public IActionResult Detail()
         {

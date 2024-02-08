@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3jKII0WbrICqWjpI3XXEdE9S12qb6AcYNEz3CIX9hjQ=",
+  "Hash": "mVASJd2ThRhCbCQyOcar/YLUXf9N5qii4W8drjmiZtk=",
   "Source": "Cappa",
   "BasePath": "_content/Cappa",
   "Mode": "Default",
@@ -2694,6 +2694,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\rooms\\9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\rooms\\970d6835-cc18-471a-8ef7-fb3cd88c61f14.jpg",
+      "SourceId": "Cappa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\",
+      "BasePath": "_content/Cappa",
+      "RelativePath": "assets/img/rooms/970d6835-cc18-471a-8ef7-fb3cd88c61f14.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\rooms\\970d6835-cc18-471a-8ef7-fb3cd88c61f14.jpg"
     },
     {
       "Identity": "C:\\Users\\Xeyal\\Desktop\\Cappa\\Cappa\\wwwroot\\assets\\img\\slider\\1.jpg",
